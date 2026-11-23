@@ -1,0 +1,11 @@
+{
+  "title": "Kasaragod Part 1",
+  "status": "ready",
+  "media_type": "REELS",
+  "share_to_feed": true,
+  "video_url": "https://raw.githubusercontent.com/itsmebhat/My-Repo/master/reels/kasaragod_p1/video.mp4",
+  "cover_url": "https://raw.githubusercontent.com/itsmebhat/My-Repo/master/reels/kasaragod_p1/cover.jpg",
+  "caption_file": "reels/kasaragod_p1/caption.txt",
+  "pinned_comment_file": "reels/kasaragod_p1/pinned_comment.txt",
+  "notes": "Music is baked into the voice track (Instagram only, no YouTube-safe version). MLA quote source still to be added to pinned comment if provided."
+}
