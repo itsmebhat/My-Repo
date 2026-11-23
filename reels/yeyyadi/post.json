@@ -1,0 +1,11 @@
+{
+  "title": "Yeyyadi",
+  "status": "ready",
+  "media_type": "REELS",
+  "share_to_feed": true,
+  "video_url": "https://raw.githubusercontent.com/itsmebhat/My-Repo/master/reels/yeyyadi/video.mp4",
+  "cover_url": "https://raw.githubusercontent.com/itsmebhat/My-Repo/master/reels/yeyyadi/cover.jpg",
+  "caption_file": "reels/yeyyadi/caption.txt",
+  "pinned_comment_file": "reels/yeyyadi/pinned_comment.txt",
+  "notes": "Requested by @chethan_poojary_cv on the Bajpe reel."
+}
